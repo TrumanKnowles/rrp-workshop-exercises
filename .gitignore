@@ -5,4 +5,7 @@
 .Ruserdata
 
 # macOS hidden file
-.DS_Store
+.DS_Store 
+
+#Ignore fastq directory 
+data/raw/fastq 
